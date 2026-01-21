@@ -1,45 +1,38 @@
 <h1 align="center">👋 Hello!</h1>
 <p align="center">
-  I'm Mariem Ghedamsi, a **Computer Engineering student** passionate about **software development, AI, and open-source**.
+  I'm Mariem Ghedamsi, a **first-year Computer Engineering student** passionate about **learning programming and computer science**.
 </p>
 
 ---
 
 ## 💻 About Me
-- Currently a **student in Computer Engineering** exploring AI, data science, and web development.
-- Interested in **learning new technologies** and building **real-world projects**.
-- Enthusiastic about **problem solving**, hackathons, and contributing to **open-source** projects.
-- Always curious to experiment with **new frameworks, tools, and languages**.
+- Currently a **1st-year student in Computer Engineering**.  
+- Learning programming languages such as **Python, C, and C++**.  
+- Interested in **AI, data science, and software development**.  
+- Enthusiastic about **learning new technologies** and improving my coding skills.  
+- Looking forward to participating in **hackathons, coding challenges, and open-source projects** in the future.
 
 ---
 
-## 🔧 Skills & Tech Stack
+## 🔧 Skills
 
-- **Languages:** Python, Java, C++, JavaScript  
-- **Web Development:** HTML, CSS, React, Node.js  
-- **AI / ML:** PyTorch, TensorFlow, scikit-learn  
-- **Databases:** PostgreSQL, MongoDB, Qdrant (vector DB)  
-- **Tools:** Git, Docker, Linux, VS Code  
+- **Languages:** Python, C, C++  
+- **Tools & Concepts:** Git basics, Linux basics, problem solving  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Projects
+## 🌱 Goals
 
-Here are some of my personal and academic projects:
-
-- **AI Chatbot** – Built a conversational AI bot using Python and OpenAI API.  
-- **Library Management System** – Java-based application for managing books and users.  
-- **Portfolio Website** – React + Node.js website showcasing my projects and skills.  
-- **Vector Database Search** – Implemented a semantic search engine using Qdrant and embeddings.
-
-> More projects can be found on my [GitHub repositories](https://github.com/GhedamsiMariem).
+- Build **small projects** to practice Python, C, and C++.  
+- Participate in **coding competitions and hackathons**.  
+- Learn **web development, AI, and data science** in the coming years.  
+- Contribute to **open-source projects** once confident in programming skills.
 
 ---
 
@@ -51,4 +44,4 @@ Here are some of my personal and academic projects:
 
 ---
 
-**Let's code, learn, and create awesome projects together!** 🚀
+**Excited to learn, code, and grow in the world of computer engineering!** 🚀
