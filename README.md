@@ -39,7 +39,7 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/GhedamsiMariem/)  
+- [LinkedIn](https://www.linkedin.com/in/mariem-ghedamsi/)
 - [GitHub](https://github.com/GhedamsiMariem)  
 
 ---
