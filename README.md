@@ -18,7 +18,7 @@
 ## 🔧 Skills
 
 - <b>Languages:</b> Python, C, C++  
-- <b>Tools & Concepts:</b> Git basics, Linux basics, problem solving  
+- <b>Tools & Concepts:</b> Git basics, problem solving  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
