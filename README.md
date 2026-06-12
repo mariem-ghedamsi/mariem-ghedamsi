@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello!</h1>
+<h1 align="center"> Hello!</h1>
 <p align="center">
   I'm Mariem Ghedamsi, a <b>first-year Computer Engineering student</b> passionate about
   <b>learning programming and computer science</b>.
